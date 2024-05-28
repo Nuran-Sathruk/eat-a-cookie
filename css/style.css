@@ -1,0 +1,28 @@
+html, body {
+    max-width: 100%;
+    overflow-X: hidden;
+}
+
+body {
+    background-color: #f5f5f5;
+    padding-top: 50px;
+}
+
+#cookie {
+    margin-top: 20px;
+    width: 20px;
+}
+
+#cookie-count {
+    font-size: 24px;
+}
+
+.p {
+    size: 5px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
