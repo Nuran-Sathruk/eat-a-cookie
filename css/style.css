@@ -1,3 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
 html, body {
     max-width: 100%;
     overflow-X: hidden;
@@ -9,8 +16,12 @@ body {
 }
 
 #cookie {
-    margin-top: 20px;
-    width: 20px;
+    width: 60%;
+    height: 70%;
+    justify-content: center;
+    overflow: hidden;
+    display: block;
+    margin: auto;
 }
 
 #cookie-count {
