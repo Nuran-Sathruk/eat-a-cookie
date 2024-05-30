@@ -16,12 +16,9 @@ body {
 }
 
 #cookie {
-    width: 60%;
-    height: 70%;
-    justify-content: center;
+    margin-top: 20px;
     overflow: hidden;
-    display: block;
-    margin: auto;
+    width: 20px;
 }
 
 #cookie-count {
