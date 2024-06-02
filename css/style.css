@@ -16,12 +16,12 @@ body {
 }
 
 #cookie {
-    width:256px;
+        width:256px;
 	height:256px;
 	position:absolute;
 	left:-128px;
 	top:-128px;
-    cursor:pointer;
+        cursor:pointer;
 	z-index:10000;
 	border-radius:128px;
 	border:none;
